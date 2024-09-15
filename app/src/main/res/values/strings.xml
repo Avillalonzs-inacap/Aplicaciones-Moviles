@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CultiVa</string>
+    <string name="cultiva">CULTIVA</string>
+    <string name="seleccionar_fecha_de_cultivo">Seleccionar fecha de cultivo</string>
+    <string name="agregar">Nuevo Cultivo</string>
+    <string name="seleccione_una_fecha">Seleccione una fecha</string>
+    <string name="cultivo_guardado_exitosamente">Cultivo guardado exitosamente. Fecha de cosecha: </string>
+    <string name="cultivos_activos">Cultivos Activos</string>
+    <string name="nombre_del_cultivo">Nombre del cultivo</string>
+    <string name="todo">TODO</string>
+    <string name="fecha_de_cosecha">Fecha de cosecha</string>
+    <string name="ver_cultivos">Ver Cultivos</string>
+    <string name="title">CULTIVA</string>
+</resources>
